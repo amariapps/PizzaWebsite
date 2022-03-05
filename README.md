@@ -1,3 +1,3 @@
 # PizzaWebsite
 
-![alt text](screenshot.png)
+![alt text](src/images/screenshot.png)
